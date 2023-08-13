@@ -6,8 +6,8 @@
 </a>
 
 <div>
-    <img align="left" height="250" src="https://github-readme-streak-stats.herokuapp.com?user=sn9854d&theme=synthwave&include_all_commits=true&count_private=true" />
-    <img height="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn9854d&theme=synthwave" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sn9854d&theme=synthwave&include_all_commits=true&count_private=true" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn9854d&theme=synthwave" />
 </div>
 
 
